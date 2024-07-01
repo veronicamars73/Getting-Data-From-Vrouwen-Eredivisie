@@ -26,8 +26,8 @@ The Eredivisie Vrouwen Stats Web Scraper extracts all tables from the Eredivisie
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/eredivisie-vrouwen-stats-scraper.git
-    cd eredivisie-vrouwen-stats-scraper
+    git clone https://github.com/veronicamars73/Getting-Data-From-Vrouwen-Eredivisie.git
+    cd Getting-Data-From-Vrouwen-Eredivisie
     ```
 
 2. Install the required libraries:
@@ -43,7 +43,7 @@ The Eredivisie Vrouwen Stats Web Scraper extracts all tables from the Eredivisie
 2. Run the script:
 
     ```sh
-    python web_scrape.py
+    python scraper.py
     ```
 
 3. The cleaned data will be saved to CSV files in the current directory.
