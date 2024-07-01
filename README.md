@@ -10,7 +10,7 @@ This repository contains a Python program to scrape, clean, and save data from t
 - [Usage](#usage)
 - [Functionality](#functionality)
 - [Contributing](#contributing)
-- [License](#license)
+- [Authorship](#authorship)
 
 ## Introduction
 
@@ -65,6 +65,6 @@ The Eredivisie Vrouwen Stats Web Scraper extracts all tables from the Eredivisie
 
 Contributions are welcome! Please fork the repository and submit a pull request for any changes.
 
-## Autoria
+## Authorship
 
 Repository developed by Lisandra Melo (<lisandramelo34@gmail.com>).
