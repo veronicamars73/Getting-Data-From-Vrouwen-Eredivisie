@@ -19,7 +19,7 @@ The Eredivisie Vrouwen Stats Web Scraper extracts all tables from the Eredivisie
 ## Requirements
 
 - Python 3.x
-- Required Python libraries: `requests`, `beautifulsoup4`, `pandas`, `numpy`
+- Required Python libraries: `requests`, `beautifulsoup4`, `pandas`
 
 ## Installation
 
